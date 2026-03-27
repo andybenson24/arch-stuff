@@ -1,0 +1,2 @@
+figure out why arch is rejecting my screen brightness buttons/write bash script
+rice out
